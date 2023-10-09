@@ -14,7 +14,7 @@ public class Topping implements ITopping {
     private final List<SubStat> subStats;
     private final int level;
     private final EventType event;
-    private boolean isUsed = false;
+    private boolean isUsed;
 
     public UUID getId() {
         return this.id;
@@ -99,7 +99,7 @@ public class Topping implements ITopping {
             return this;
         }
 
-        protected ToppingBuilder mainType(StatType mainType) {
+        public ToppingBuilder mainType(StatType mainType) {
             this.mainType = mainType;
             return this;
         }
