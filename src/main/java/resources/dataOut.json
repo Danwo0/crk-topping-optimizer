@@ -1,0 +1,1873 @@
+{
+  "toppings": [
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.1
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 1.4
+        },
+        {
+          "type": "defense",
+          "value": 2.9
+        },
+        {
+          "type": "critRate",
+          "value": 2.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 2.2
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.7
+        },
+        {
+          "type": "critRate",
+          "value": 2.2
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 1.0
+        },
+        {
+          "type": "health",
+          "value": 1.3
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.2
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "health",
+          "value": 1.5
+        },
+        {
+          "type": "damageReduction",
+          "value": 2.3
+        },
+        {
+          "type": "critRate",
+          "value": 3.0
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "health",
+          "value": 1.3
+        },
+        {
+          "type": "critRate",
+          "value": 2.6
+        },
+        {
+          "type": "defense",
+          "value": 2.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attackSpeed",
+          "value": 1.1
+        },
+        {
+          "type": "critRate",
+          "value": 2.7
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 3.0
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.6
+        },
+        {
+          "type": "attack",
+          "value": 1.6
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.8
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.0
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.7
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "buffIncrease",
+          "value": 1.5
+        },
+        {
+          "type": "defense",
+          "value": 2.7
+        },
+        {
+          "type": "damageReduction",
+          "value": 2.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "debuffDecrease",
+          "value": 1.8
+        },
+        {
+          "type": "health",
+          "value": 1.6
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "debuffDecrease",
+          "value": 1.2
+        },
+        {
+          "type": "attack",
+          "value": 2.1
+        },
+        {
+          "type": "health",
+          "value": 2.0
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.1
+        },
+        {
+          "type": "health",
+          "value": 2.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.0
+        },
+        {
+          "type": "critRate",
+          "value": 3.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.7
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.2
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "buffIncrease",
+          "value": 1.2
+        },
+        {
+          "type": "defense",
+          "value": 1.3
+        },
+        {
+          "type": "critRate",
+          "value": 2.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "debuffDecrease",
+          "value": 1.5
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.7
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.0
+        },
+        {
+          "type": "critRate",
+          "value": 1.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 2.3
+        },
+        {
+          "type": "attack",
+          "value": 1.5
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 1.2
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.0
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 1.2
+        },
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "defense",
+          "value": 1.1
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.2
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.5
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "health",
+          "value": 2.6
+        },
+        {
+          "type": "critRate",
+          "value": 1.0
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "health",
+          "value": 1.6
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.4
+        },
+        {
+          "type": "defense",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.5
+        },
+        {
+          "type": "attack",
+          "value": 2.8
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.7
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.1
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.0
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.7
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "buffIncrease",
+          "value": 1.4
+        },
+        {
+          "type": "defense",
+          "value": 1.2
+        },
+        {
+          "type": "damageReduction",
+          "value": 1.2
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "damageReduction",
+      "subStats": [
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        },
+        {
+          "type": "attack",
+          "value": 1.0
+        },
+        {
+          "type": "defense",
+          "value": 2.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 4.1000000000000005
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.3
+        },
+        {
+          "type": "defense",
+          "value": 2.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.5
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.2
+        },
+        {
+          "type": "critRate",
+          "value": 2.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attackSpeed",
+          "value": 3.0
+        },
+        {
+          "type": "attack",
+          "value": 2.3
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 4.7
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.5
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.4
+        },
+        {
+          "type": "attack",
+          "value": 1.9
+        },
+        {
+          "type": "health",
+          "value": 2.7
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "health",
+          "value": 2.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 2.0
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.5
+        },
+        {
+          "type": "attack",
+          "value": 2.6
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 3.4
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.8
+        },
+        {
+          "type": "critRate",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 3.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.3
+        },
+        {
+          "type": "attack",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.6
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.6
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.0
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.9
+        }
+      ],
+      "level": 12,
+      "event": "moonlight",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 4.3
+        },
+        {
+          "type": "health",
+          "value": 3.0
+        },
+        {
+          "type": "defense",
+          "value": 1.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.6
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.9
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.7
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.9
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.2
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.4
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "buffIncrease",
+          "value": 2.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.7
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 4.0
+        },
+        {
+          "type": "health",
+          "value": 2.9
+        },
+        {
+          "type": "defense",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.3
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.5
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.6
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.2
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.0
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.4
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.8
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        },
+        {
+          "type": "attack",
+          "value": 2.7
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.2
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.0
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.8
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 2.0
+        },
+        {
+          "type": "attack",
+          "value": 2.2
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.8
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        },
+        {
+          "type": "attack",
+          "value": 2.1
+        },
+        {
+          "type": "critRate",
+          "value": 2.5
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.5
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.6
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 4.0
+        },
+        {
+          "type": "attack",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.4
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.6
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.9
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.7
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.6
+        },
+        {
+          "type": "critRate",
+          "value": 3.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 4.5
+        },
+        {
+          "type": "critRate",
+          "value": 2.5
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.8
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.6
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.2
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.8
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        },
+        {
+          "type": "attack",
+          "value": 2.1
+        }
+      ],
+      "level": 12,
+      "event": "oceanWave",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.5
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.5
+        },
+        {
+          "type": "critRate",
+          "value": 2.3
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.8
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "attackSpeed",
+          "value": 2.7
+        },
+        {
+          "type": "damageReduction",
+          "value": 3.8
+        },
+        {
+          "type": "health",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.8
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.4
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.5
+        },
+        {
+          "type": "defense",
+          "value": 2.3
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.4
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.9
+        },
+        {
+          "type": "health",
+          "value": 1.8
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 3.3
+        },
+        {
+          "type": "defense",
+          "value": 1.0
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 1.1
+        },
+        {
+          "type": "attackSpeed",
+          "value": 2.5
+        },
+        {
+          "type": "attack",
+          "value": 1.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "cooldownReduction",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.5
+        },
+        {
+          "type": "attack",
+          "value": 2.9
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 3.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.7
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.6
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.0
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.1
+        },
+        {
+          "type": "health",
+          "value": 2.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.5
+        },
+        {
+          "type": "defense",
+          "value": 1.8
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "critRate",
+          "value": 2.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.3
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.5
+        },
+        {
+          "type": "health",
+          "value": 2.4
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "damageReduction",
+          "value": 5.5
+        },
+        {
+          "type": "critRate",
+          "value": 2.8
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.8
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "critRate",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.6
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.2
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.9
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.1
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "buffIncrease",
+          "value": 1.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attack",
+          "value": 2.1
+        },
+        {
+          "type": "debuffDecrease",
+          "value": 1.3
+        },
+        {
+          "type": "critDamageReduction",
+          "value": 3.9
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "health",
+          "value": 2.4
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.4
+        },
+        {
+          "type": "damageReduction",
+          "value": 1.5
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attackSpeed",
+          "value": 2.8
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "critRate",
+          "value": 2.6
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "attackSpeed",
+          "value": 2.2
+        },
+        {
+          "type": "critRate",
+          "value": 2.9
+        },
+        {
+          "type": "health",
+          "value": 1.8
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "critRate",
+          "value": 2.9
+        },
+        {
+          "type": "cooldownReduction",
+          "value": 1.4
+        },
+        {
+          "type": "defense",
+          "value": 1.1
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 2.0
+        },
+        {
+          "type": "attackSpeed",
+          "value": 1.9
+        },
+        {
+          "type": "damageReduction",
+          "value": 2.7
+        }
+      ],
+      "level": 12,
+      "event": "none",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.9
+        },
+        {
+          "type": "critRate",
+          "value": 2.8
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.9
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.8
+        },
+        {
+          "type": "attack",
+          "value": 2.4
+        },
+        {
+          "type": "damageReduction",
+          "value": 5.7
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    },
+    {
+      "mainType": "attack",
+      "subStats": [
+        {
+          "type": "cooldownReduction",
+          "value": 1.6
+        },
+        {
+          "type": "critRate",
+          "value": 2.9
+        },
+        {
+          "type": "damageReduction",
+          "value": 4.9
+        }
+      ],
+      "level": 12,
+      "event": "tropicalRock",
+      "isUsed": false,
+      "value": 9.0
+    }
+  ]
+}

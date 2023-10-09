@@ -1,0 +1,239 @@
+{
+    "toppings" : [
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "attack",
+                    "value": 2.4
+                },
+                {
+                    "type": "damageReduction",
+                    "value": 4.1
+                },
+                {
+                    "type": "debuffDecrease",
+                    "value": 1.3
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "attack",
+                    "value": 1.4
+                },
+                {
+                    "type": "defense",
+                    "value": 2.9
+                },
+                {
+                    "type": "critRate",
+                    "value": 2.9
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "defense",
+                    "value": 2.2
+                },
+                {
+                    "type": "damageReduction",
+                    "value": 5.7
+                },
+                {
+                    "type": "critRate",
+                    "value": 2.2
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "defense",
+                    "value": 1.0
+                },
+                {
+                    "type": "health",
+                    "value": 1.3
+                },
+                {
+                    "type": "critDamageReduction",
+                    "value": 3.2
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "health",
+                    "value": 1.5
+                },
+                {
+                    "type": "damageReduction",
+                    "value": 2.3
+                },
+                {
+                    "type": "critRate",
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "health",
+                    "value": 1.3
+                },
+                {
+                    "type": "critRate",
+                    "value": 2.6
+                },
+                {
+                    "type": "defense",
+                    "value": 2.9
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "atkSpeed",
+                    "value": 1.1
+                },
+                {
+                    "type": "critRate",
+                    "value": 2.7
+                },
+                {
+                    "type": "cooldownReduction",
+                    "value": 1.4
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "event": "tropicalRock",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "cooldownReduction",
+                    "value": 1.6
+                },
+                {
+                    "type": "critRate",
+                    "value": 2.0
+                },
+                {
+                    "type": "atkSpeed",
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "damageReduction",
+                    "value": 5.6
+                },
+                {
+                    "type": "attack",
+                    "value": 1.6
+                },
+                {
+                    "type": "debuffDecrease",
+                    "value": 1.8
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "damageReduction",
+                    "value": 5.0
+                },
+                {
+                    "type": "critDamageReduction",
+                    "value": 3.7
+                },
+                {
+                    "type": "cooldownReduction",
+                    "value": 1.9
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "buffIncrease",
+                    "value": 1.5
+                },
+                {
+                    "type": "defense",
+                    "value": 2.7
+                },
+                {
+                    "type": "damageReduction",
+                    "value": 2.4
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "debuffDecrease",
+                    "value": 1.8
+                },
+                {
+                    "type": "health",
+                    "value": 1.6
+                },
+                {
+                    "type": "cooldownReduction",
+                    "value": 1.6
+                }
+            ]
+        },
+        {
+            "mainType":"attack",
+            "level": 12,
+            "substats": [
+                {
+                    "type": "debuffDecrease",
+                    "value": 1.2
+                },
+                {
+                    "type": "attack",
+                    "value": 2.1
+                },
+                {
+                    "type": "health",
+                    "value": 2.0
+                }
+            ]
+        }
+    ]
+}
