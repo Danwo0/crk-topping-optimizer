@@ -104,7 +104,10 @@ public class Optimizer {
         List<UUID> toppingsUsed = new ArrayList<>();
 
         for (List<Configuration> cookie : cookies) {
-            Combination cookieOutput = optimize(cookie, toppings);
+            List<StatType> validStats = cookie.stream().map(Configuration::getStatType).toList();
+            List<Topping> validToppings = toppings.stream().filter(topping -> validStats.stream().anyMatch(t -> topping.getMainType() == t )).toList();
+
+            Combination cookieOutput = optimize(cookie, validToppings);
             toppingsUsed.addAll(cookieOutput.getToppingIds());
             toppings = toppings.stream().filter(topping ->
                     toppingsUsed.stream().noneMatch(usedTopping ->
