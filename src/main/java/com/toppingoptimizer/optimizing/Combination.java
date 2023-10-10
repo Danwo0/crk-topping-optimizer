@@ -8,6 +8,7 @@ import org.apache.commons.math3.util.Precision;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.UUID;
 
 import static com.toppingoptimizer.utils.ToppingUtils.getSpecificSynergy;
@@ -55,5 +56,22 @@ public class Combination {
         val += getSpecificSynergy(this.toppings, s);
 
         return Precision.round(val, 2);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (!(o instanceof Combination other)) {
+            return false;
+        }
+
+        return this.getSummary().equals(other.getSummary());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(this.getSummary());
     }
 }
