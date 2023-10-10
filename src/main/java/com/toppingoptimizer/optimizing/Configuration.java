@@ -21,14 +21,14 @@ public class Configuration {
         return (this.min < value && value < this.max);
     }
 
+    public static ConfigurationBuilder toBuilder() {
+        return new ConfigurationBuilder();
+    }
+
     public static class ConfigurationBuilder {
         private StatType statType;
         private double min = Double.MIN_VALUE;
         private double max = Double.MAX_VALUE;
-
-        public static ConfigurationBuilder toBuilder() {
-            return new ConfigurationBuilder();
-        }
 
         private ConfigurationBuilder() {}
 
