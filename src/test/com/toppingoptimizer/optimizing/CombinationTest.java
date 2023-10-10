@@ -5,9 +5,8 @@ import com.toppingoptimizer.toppings.Topping;
 import com.toppingoptimizer.utils.EventType;
 import com.toppingoptimizer.utils.StatType;
 
-import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestInstance;
 
 import java.util.HashMap;
 import java.util.List;
@@ -16,7 +15,6 @@ import java.util.UUID;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 class CombinationTest {
 
     private Topping t1;
@@ -26,7 +24,7 @@ class CombinationTest {
     private Topping t5;
     private Combination c;
 
-    @BeforeAll
+    @BeforeEach
     public void setUp() {
         List<SubStat> s1 = List.of(new SubStat(StatType.ATTACK, 3),
                 new SubStat(StatType.ATTACK_SPEED, 4),
@@ -116,5 +114,15 @@ class CombinationTest {
 
         c.markUsed(true);
         assertTrue(t1.getIsUsed());
+    }
+
+    @Test
+    public void testEquals() {
+        Combination other = new Combination(List.of(t1, t2, t3, t4, t5));
+        assertEquals(other, c);
+        assertEquals(c, other);
+
+        assertEquals(other.hashCode(), c.hashCode());
+        assertEquals(c.hashCode(), other.hashCode());
     }
 }
