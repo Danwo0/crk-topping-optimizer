@@ -23,13 +23,13 @@ class ComparerTest {
 
     @BeforeEach
     public void setUp() {
-         Configuration c1 = Configuration.ConfigurationBuilder.toBuilder().statType(StatType.ATTACK).build();
+         Configuration c1 = Configuration.toBuilder().statType(StatType.ATTACK).build();
 
         List<SubStat> s1 = List.of(new SubStat(StatType.ATTACK, 5),
                 new SubStat(StatType.COOLDOWN, 2),
                 new SubStat(StatType.CRIT_RATE, 2));
 
-        Topping t1 = Topping.ToppingBuilder.toBuilder()
+        Topping t1 = Topping.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s1)
                 .event(EventType.NONE)
@@ -40,7 +40,7 @@ class ComparerTest {
                 new SubStat(StatType.COOLDOWN, 5),
                 new SubStat(StatType.CRIT_RATE, 2));
 
-        Topping t2 = Topping.ToppingBuilder.toBuilder()
+        Topping t2 = Topping.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s2)
                 .event(EventType.NONE)
@@ -51,7 +51,7 @@ class ComparerTest {
                 new SubStat(StatType.COOLDOWN, 2),
                 new SubStat(StatType.CRIT_RATE, 5));
 
-        Topping t3 = Topping.ToppingBuilder.toBuilder()
+        Topping t3 = Topping.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s3)
                 .event(EventType.NONE)
@@ -62,7 +62,7 @@ class ComparerTest {
                 new SubStat(StatType.COOLDOWN, 5),
                 new SubStat(StatType.CRIT_RATE, 2));
 
-        Topping t4 = Topping.ToppingBuilder.toBuilder()
+        Topping t4 = Topping.toBuilder()
                 .mainType(StatType.COOLDOWN)
                 .subStats(s4)
                 .event(EventType.NONE)
@@ -73,7 +73,7 @@ class ComparerTest {
                 new SubStat(StatType.COOLDOWN, 2),
                 new SubStat(StatType.CRIT_RATE, 5));
 
-        Topping t5 = Topping.ToppingBuilder.toBuilder()
+        Topping t5 = Topping.toBuilder()
                 .mainType(StatType.COOLDOWN)
                 .subStats(s5)
                 .event(EventType.NONE)
@@ -84,7 +84,7 @@ class ComparerTest {
                 new SubStat(StatType.COOLDOWN, 5),
                 new SubStat(StatType.CRIT_RATE, 5));
 
-        Topping t6 = Topping.ToppingBuilder.toBuilder()
+        Topping t6 = Topping.toBuilder()
                 .mainType(StatType.COOLDOWN)
                 .subStats(s6)
                 .event(EventType.NONE)

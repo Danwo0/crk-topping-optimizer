@@ -15,8 +15,8 @@ public class Main {
         DataManager dm = new DataManager();
         dm.load("src/main/java/resources/data.json");
 
-        Configuration cf1 = Configuration.ConfigurationBuilder.toBuilder().statType(StatType.ATTACK).build();
-        Configuration cf2 = Configuration.ConfigurationBuilder.toBuilder().statType(StatType.COOLDOWN).build();
+        Configuration cf1 = Configuration.toBuilder().statType(StatType.ATTACK).build();
+        Configuration cf2 = Configuration.toBuilder().statType(StatType.COOLDOWN).build();
 
         List<Configuration> configs = List.of(cf2);
         List<Configuration> configs2 = List.of(cf1);

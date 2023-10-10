@@ -88,16 +88,16 @@ public class Topping implements ITopping {
         return String.format("%s: %s, %s", this.mainType, this.level, this.subStats.toString());
     }
 
+    public static ToppingBuilder toBuilder() {
+        return new ToppingBuilder();
+    }
+
     public static class ToppingBuilder {
         private StatType mainType;
         private List<SubStat> subStats = new ArrayList<>();
 
         private int level = 0;
         private EventType event = null;
-
-        public static ToppingBuilder toBuilder() {
-            return new ToppingBuilder();
-        }
 
         private ToppingBuilder() {}
 
