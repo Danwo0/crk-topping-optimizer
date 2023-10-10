@@ -22,12 +22,19 @@ public class Configuration {
     }
 
     public static class ConfigurationBuilder {
-        private final StatType statType;
+        private StatType statType;
         private double min = Double.MIN_VALUE;
         private double max = Double.MAX_VALUE;
 
-        public ConfigurationBuilder(StatType statType) {
+        public static ConfigurationBuilder toBuilder() {
+            return new ConfigurationBuilder();
+        }
+
+        private ConfigurationBuilder() {}
+
+        public ConfigurationBuilder statType(StatType statType) {
             this.statType = statType;
+            return this;
         }
 
         public ConfigurationBuilder min(double min) {

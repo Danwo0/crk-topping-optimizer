@@ -32,7 +32,7 @@ class CombinationTest {
                 new SubStat(StatType.ATTACK_SPEED, 4),
                 new SubStat(StatType.COOLDOWN, 5));
 
-        t1 = new Topping.ToppingBuilder()
+        t1 = Topping.ToppingBuilder.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s1)
                 .event(EventType.NONE)
@@ -43,7 +43,7 @@ class CombinationTest {
                 new SubStat(StatType.ATTACK, 4),
                 new SubStat(StatType.HEALTH, 5));
 
-        t2 = new Topping.ToppingBuilder()
+        t2 = Topping.ToppingBuilder.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s2)
                 .event(EventType.NONE)
@@ -54,7 +54,7 @@ class CombinationTest {
                 new SubStat(StatType.CRIT_DAMAGE_REDUCTION, 4),
                 new SubStat(StatType.ATTACK, 5));
 
-        t3 = new Topping.ToppingBuilder()
+        t3 = Topping.ToppingBuilder.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s3)
                 .event(EventType.NONE)
@@ -65,7 +65,7 @@ class CombinationTest {
                 new SubStat(StatType.ATTACK, 4),
                 new SubStat(StatType.CRIT_RATE, 5));
 
-        t4 = new Topping.ToppingBuilder()
+        t4 = Topping.ToppingBuilder.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s4)
                 .event(EventType.NONE)
@@ -76,7 +76,7 @@ class CombinationTest {
                 new SubStat(StatType.DEBUFF_DECREASE, 4),
                 new SubStat(StatType.DAMAGE_REDUCTION, 5));
 
-        t5 = new Topping.ToppingBuilder()
+        t5 = Topping.ToppingBuilder.toBuilder()
                 .mainType(StatType.ATTACK)
                 .subStats(s5)
                 .event(EventType.NONE)

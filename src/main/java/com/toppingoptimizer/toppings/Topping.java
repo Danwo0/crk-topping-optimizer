@@ -95,9 +95,11 @@ public class Topping implements ITopping {
         private int level = 0;
         private EventType event = null;
 
-        public ToppingBuilder toBuilder() {
-            return this;
+        public static ToppingBuilder toBuilder() {
+            return new ToppingBuilder();
         }
+
+        private ToppingBuilder() {}
 
         public ToppingBuilder mainType(StatType mainType) {
             this.mainType = mainType;
