@@ -9,8 +9,5 @@
         <module name="crk-topping-optimizer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="crk-topping-optimizer" target="16" />
-    </bytecodeTargetLevel>
   </component>
 </project>

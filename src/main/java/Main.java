@@ -22,9 +22,6 @@ public class Main {
         List<Configuration> configs2 = List.of(cf1);
         Optimizer op = new Optimizer(dm.getInventory());
 
-        // Combination combination = op.optimize(configs, false);
-        // System.out.println(combination.getSummary());
-
         List<Combination> result = op.optimizeMultiple(List.of(configs, configs, configs, configs, configs2), false);
         for (Combination cookie : result) {
             System.out.println(cookie.getSummary());
